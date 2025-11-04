@@ -3,7 +3,13 @@ body{
 }
 
 h1{
+<<<<<<< HEAD
     border: 2px solid red;
     text-align: center;
     padding: 50px;
+=======
+    color: violet;
+    font-size: 50px;
+
+>>>>>>> texto-estilo
 }
